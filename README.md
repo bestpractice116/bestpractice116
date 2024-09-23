@@ -1,7 +1,7 @@
 <div align="center">
    <img src="https://raw.githubusercontent.com/Bhupi2508/Bhupi2508/master/bhupi.gif"/>
   
-   ### Senior Software Engineer | Full Stack Developer
+   # Senior Software Engineer | Full Stack Developer
    <br>
    <p align="center"> 
       <p align="center">
