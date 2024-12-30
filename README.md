@@ -1,6 +1,5 @@
 <div align="center">
-   <img src="https://raw.githubusercontent.com/bestpractice116/bestpractice116/master/bhupi.gif"/>
-  
+
    # Senior Software Engineer | Full Stack Developer
    <br>
    <p align="center"> 
@@ -12,8 +11,11 @@
 <div align="center">
    <hr>
    <div align="left">
-      Experienced Senior Software Engineer with over 5 years of expertise in JavaScript, TypeScript, Node.js, AWS, Serverless, Angular, SQL, and GraphQL. Proficient in developing scalable web applications and corporate e-commerce solutions, with hands-on experience in banking payment systems. Demonstrated ability to design and implement cost-effective serverless and microservices architectures for enhanced reliability. Additionally, I provide freelancing services, delivering high-quality software solutions. Committed to continuous learning and professional growth in the ever-evolving field of software development.
-      I'm also well-proficient in using CMS for content manage-full wep-application development.
+      Experienced Senior Software Engineer with over 5 years of expertise in JavaScript, TypeScript, Node.js, AWS, Serverless, Angular, SQL, and GraphQL. Proficient in developing scalable web applications and corporate e-commerce solutions, with hands-on experience in banking payment systems. Demonstrated ability to design and implement cost-effective serverless and microservices architectures for enhanced reliability. Additionally, I provide freelancing services, delivering high-quality software solutions. Committed to continuous learning and professional growth in the ever-evolving field of software development. I'm also well-proficient in using CMS for content manage-full wep-application development. 
+      <br/>
+
+      **❤️ In 2025, I'm going to learn Machine Learning and BlockChain more deeply and construct some meaningfull templates with other developers.
+      Also, I'm going to learn more about the game development using unity, layabox and cocos. I hope for kind help from all talented developers for my tech growth.
    </div>
    <hr>
 </div>
@@ -21,12 +23,11 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=c,cpp,java,html,css,bootstrap,js,php,mysql,cs,nodejs,react,matlab,eclipse,figma,git,github,netlify,vim,notion,arduino,linux,kali,ubuntu,bash,powershell,vscode,mongodb,mysql,tailwind,ts,devto,discord,express,figma,git,github,postman,redux,sass,visualstudio,vite,vscode,py,fastapi"
+      src="https://skillicons.dev/icons?i=c,cpp,java,html,css,bootstrap,js,php,mysql,cs,nodejs,react,matlab,eclipse,figma,aws,git,github,netlify,django,linux,ubuntu,bash,powershell,vscode,mongodb,mysql,tailwind,ts,express,figma,git,github,postman,redux,sass,visualstudio,vite,vscode,py,fastapi,angular,graphql,go,unity,jquery,laravel,next,wordpress,qt,lua,ruby,gatsby,net,ai"
     />
   </a>
 </p>
 
-<br />
 
 <h1></h1>
 <p align="center">
@@ -37,7 +38,6 @@
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡<br> <br/> </h2>
-<br>
 <div align=center>
   <img width=352  src="https://github-readme-stats.vercel.app/api?username=bestpractice116&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="bestpractice116" />
 
