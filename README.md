@@ -13,7 +13,6 @@
    <div align="left">
       Experienced Senior Software Engineer with over 5 years of expertise in JavaScript, TypeScript, Node.js, AWS, Serverless, Angular, SQL, and GraphQL. Proficient in developing scalable web applications and corporate e-commerce solutions, with hands-on experience in banking payment systems. Demonstrated ability to design and implement cost-effective serverless and microservices architectures for enhanced reliability. Additionally, I provide freelancing services, delivering high-quality software solutions. Committed to continuous learning and professional growth in the ever-evolving field of software development. I'm also well-proficient in using CMS for content manage-full wep-application development. 
       <br/>
-
       **❤️ In 2025, I'm going to learn Machine Learning and BlockChain more deeply and construct some meaningfull templates with other developers.
       Also, I'm going to learn more about the game development using unity, layabox and cocos. I hope for kind help from all talented developers for my tech growth.
    </div>
