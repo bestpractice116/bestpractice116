@@ -11,9 +11,9 @@
 <div align="center">
    <hr>
    <div align="left">
-      Experienced Senior Software Engineer with over 5 years of expertise in JavaScript, TypeScript, Node.js, AWS, Serverless, Angular, SQL, and GraphQL. Proficient in developing scalable web applications and corporate e-commerce solutions, with hands-on experience in banking payment systems. Demonstrated ability to design and implement cost-effective serverless and microservices architectures for enhanced reliability. Additionally, I provide freelancing services, delivering high-quality software solutions. Committed to continuous learning and professional growth in the ever-evolving field of software development. I'm also well-proficient in using CMS for content manage-full wep-application development. 
+      Experienced Web3 Frontend Developer with over 8 years of expertise in JavaScript, TypeScript, Node.js, AWS, Serverless, Angular, SQL, and GraphQL. Engineered high-performance Web3 applications using React, Next.js, ethers.js, and wagmi, ensuring seamless interaction with blockchain networks while maintaining an average loading time under 2 seconds. Prioritized user experience by implementing responsive design principles, enhancing accessibility for diverse users across decentralized platforms. Proficient in developing scalable web applications and corporate e-commerce solutions, with hands-on experience in banking payment systems. Demonstrated ability to design and implement cost-effective serverless and microservices architectures for enhanced reliability. Additionally, I provide freelancing services, delivering high-quality software solutions. Committed to continuous learning and professional growth in the ever-evolving field of software development. I'm also well-proficient in using CMS for content manage-full wep-application development. 
       <br/>
-      **❤️ In 2025, I'm going to learn Machine Learning and BlockChain more deeply and construct some meaningfull templates with other developers.
+      **❤️ In 2025, I'm going to learn Machine Learning more deeply and construct some meaningfull templates with other developers.
       Also, I'm going to learn more about the game development using unity, layabox and cocos. I hope for kind help from all talented developers for my tech growth.
    </div>
    <hr>
@@ -24,7 +24,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=c,cpp,java,html,css,bootstrap,js,php,mysql,cs,nodejs,react,matlab,eclipse,figma,aws,git,github,netlify,django,linux,ubuntu,bash,powershell,vscode,mongodb,mysql,tailwind,ts,express,figma,postman,redux,sass,visualstudio,vite,vscode,py,fastapi,angular,graphql,go,unity,jquery,laravel,next,wordpress,qt,lua,ruby,gatsby,net,docker,firebase,flutter,rust,kotlin,redis,nestjs,ai"
+      src="https://skillicons.dev/icons?i=c,cpp,java,html,css,bootstrap,js,php,mysql,cs,nodejs,react,matlab,eclipse,figma,aws,git,github,netlify,django,linux,ubuntu,bash,powershell,vscode,mongodb,mysql,tailwind,ts,express,figma,postman,redux,sass,visualstudio,vite,vscode,py,fastapi,angular,graphql,go,unity,jquery,laravel,next,wordpress,qt,lua,ruby,gatsby,net,docker,firebase,flutter,rust,solidity, kotlin,redis,nestjs,ai"
     />
   </a>
 </p>
