@@ -28,14 +28,6 @@
     />
   </a>
 </p>
-
-
-<h1></h1>
-<p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=bestpractice116&theme=onedark&no-frame=false&no-bg=true&margin-w=4&row=2&column=-1">
-    <img src="https://github-profile-trophy.vercel.app/?username=bestpractice116&theme=onedark&no-frame=false&no-bg=true&margin-w=4&row=2&column=-1" alt="bestpractice116" />
-  </a>
-</p>
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡<br> <br/> </h2>
