@@ -41,7 +41,7 @@
   <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="50" height="50" />
    <hr>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="12"><b> All skills</b>
+<b> ⚡⚡All skills⚡⚡</b>
   <a href="https://skillicons.dev">
     <img
       src="https://skillicons.dev/icons?i=c,cpp,java,html,css,bootstrap,js,ts,php,mysql,cs,nodejs,react,matlab,eclipse,figma,aws,git,github,netlify,django,linux,ubuntu,bash,powershell,mongodb,mysql,tailwind,express,figma,postman,redux,sass,vite,vscode,py,fastapi,angular,graphql,go,unity,jquery,next,lua,ruby,gatsby,net,docker,firebase,flutter,rust,solidity,kotlin,nestjs,ai"
